@@ -1,8 +1,8 @@
 <!-- external icons -->
+<head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-<style>
-    i{ font-size: 1.5rem; }
-</style>
+</head>
+
 <img
   src="https://flagcdn.com/120x90/tn.png"
   srcset="https://flagcdn.com/240x180/tn.png 2x"
@@ -19,7 +19,7 @@
 
 **Languages:**  
 
-<i class="devicon-javascript-plain colored"></i> <i class="devicon-typescript-plain colored"></i> <i class="devicon-html5-plain colored"></i> <i class="devicon-css3-plain colored"></i> <i class="devicon-php-plain colored"></i> <i class="devicon-mysql-plain colored"></i> 
+<i class="devicon-javascript-plain colored" style="font-size: 1.5rem;"></i> <i class="devicon-typescript-plain colored"></i> <i class="devicon-html5-plain colored"></i> <i class="devicon-css3-plain colored"></i> <i class="devicon-php-plain colored"></i> <i class="devicon-mysql-plain colored"></i> 
 
 <i class="devicon-mongodb-plain colored"></i> <i class="devicon-nodejs-plain colored"></i> <i class="devicon-react-original colored"></i>
 
@@ -28,6 +28,3 @@
 
 ![Our Github Stats](https://github-readme-stats.vercel.app/api?username=JuniorDevTun&show_icons=true&hide=["issues"])
 
-
----
-💛 From [JuniorDevTun](https://github.com/[JuniorDevTun])
