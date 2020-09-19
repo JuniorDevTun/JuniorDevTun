@@ -2,6 +2,9 @@
 - 📺 Watch us on [Youtube](https://www.youtube.com/channel/UCMbOrX4GDXq2Q77wIHhnGog)
 - 📫 Get in touch:  
 [DevTo](https://dev.to/juniordevtun) | [Instagram](https://www.instagram.com/__juniordevtun/)
+- 🎓 Instructors:
+@AymKh 
+@MediniAmani  
 
 
 **Tutorials on:**  
