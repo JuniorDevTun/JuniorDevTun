@@ -3,8 +3,8 @@
 - 📫 Get in touch:  
 [DevTo](https://dev.to/juniordevtun) | [Instagram](https://www.instagram.com/__juniordevtun/)
 - 🎓 Instructors:
-@AymKh 
-@MediniAmani  
+[@AymKh](https://github.com/AymKh) 
+[@MediniAmani ](https://github.com/MediniAmani) 
 
 
 **Tutorials on:**  
